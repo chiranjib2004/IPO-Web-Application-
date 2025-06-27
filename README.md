@@ -38,7 +38,6 @@ This app allows admins to **add, edit, or delete IPOs** with rich details includ
 
 ## 📸 Screenshots
 
-> Make sure the images below are added to a folder called `/screenshots` in your project.
 
 ### 🏠 IPO Home Page  
 ![IPO Listings](screenshots/home.png)
