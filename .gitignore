@@ -1,0 +1,12 @@
+# Node backend
+backend/node_modules/
+backend/.env
+
+# React frontend
+ipo-web-react/node_modules/
+ipo-web-react/build/
+
+# Logs and system files
+*.log
+.DS_Store
+.vscode/
